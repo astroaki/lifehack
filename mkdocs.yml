@@ -1,0 +1,9 @@
+site_name: astroaki's page
+theme:
+  name: readthedocs
+  language: ja
+  
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
